@@ -1,0 +1,8 @@
+{
+        "rewrites": [
+            {
+            "source": "/api/:path*",
+            "destination": "https://singh12320000-90-hima707chs-projects.vercel.app/api/:path*"
+            }
+        ]
+        }
